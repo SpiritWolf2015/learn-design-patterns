@@ -7,6 +7,7 @@
 重学Java设计模式·小傅哥(公众号：bugstack虫洞栈)
 设计模式：基于C#的工程化实现及扩展.pdf
 重构-改善既有代码的设计-第1版.pdf
+EffectiveJava第3版.pdf
 
 #### 博客
 java - bugstack虫洞栈
